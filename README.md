@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The point of this repository is to test (react-user-tour)[https://www.npmjs.com/package/react-user-tour] librairy.
 
 ## Available Scripts
 
