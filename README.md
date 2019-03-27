@@ -1,4 +1,4 @@
-The point of this repository is to test (react-user-tour)[https://www.npmjs.com/package/react-user-tour] librairy.
+The point of this repository is to test [react-user-tour](https://www.npmjs.com/package/react-user-tour) librairy.
 
 ## Available Scripts
 
